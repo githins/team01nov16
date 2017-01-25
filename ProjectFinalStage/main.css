@@ -1,0 +1,94 @@
+/* main.css */
+
+html { 
+  background: url("spices.jpg") no-repeat center center fixed; 
+}
+
+	
+
+header h1 {
+	font-family: 'Love Ya Like A Sister', georgia;
+	letter-spacing: 4px;
+	font-size: 72px;
+	padding-top: .5em;
+	padding-left: .5em;
+	color:#F5EEEE;
+} 
+
+
+
+
+
+body {
+	color:white;
+	font-family: Times Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	
+}
+div.wrapper {
+
+	margin: 0 auto;
+	color:#FDFDFD;
+}
+div.address {
+   height: 10em;
+   position: relative } 
+   
+nav ul {
+	margin: 0;
+	padding: 0;
+	display: inline;
+	align-self:auto;
+}
+nav ul li {
+	list-style: circle;
+	float: left;
+	font-size: 150%;
+	display: inline;
+}
+nav ul li a {
+	display: inline;
+	font-weight: bold;
+	padding: .625em 3.5em; /* 10px 15px */
+	text-decoration: underline;
+	color: #1CE490;
+	border-right: 1px solid #bababa;
+}
+img {max-width: 100%}
+#col1 {
+	float: inherit;
+	width: 200%;
+	margin: 1em 1em 1em 2em;
+	
+	
+}
+
+
+
+footer {
+		clear: both;
+}
+footer h3 {
+	font-family: 'Love Ya Like A Sister', georgia;
+	background-color: #94d4ff;
+	padding: .5em 0 .5em .5em;
+	background-repeat: repeat-x;
+	position: bottom;
+	
+}
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #847B7B;
+  text-align: center;
+}
+BODY #slider{
+	
+	width:100%;
+	display:block;
+	margin-left:25%;
+	}
+
+
